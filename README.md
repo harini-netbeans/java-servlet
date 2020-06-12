@@ -53,4 +53,3 @@ This is for students to vies job information according to thier course and quali
 
 **PROJECT WILL RUN SUCCESSFULLY**
 
-**NOTE**:Also have a mysql connector incase any library connecting issues.
